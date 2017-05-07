@@ -1,5 +1,6 @@
 # ng2Mvc5Demo
-Using Angular 2 in ASP.NET MVC 5 &amp; Visual Studio 2015
+Using Angular 2 in ASP.NET MVC 5 &amp; Visual Studio 2015.
+
 Real world examples + ASP.NET MVC. 
 Please refer to https://angular2.realworld.io/#/ for real world expamples project
 Update 
