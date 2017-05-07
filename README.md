@@ -1,6 +1,7 @@
 # ng2Mvc5Demo
 Using Angular 2 in ASP.NET MVC 5 &amp; Visual Studio 2015
-
+Real world examples + ASP.NET MVC. 
+Please refer to https://angular2.realworld.io/#/ for real world expamples project
 Update 
 * October 22/16 - Updated to Angular 2.1
 * Sept 24 2016 - Using Angular 2 Final Release. Must install TypeScript 2 in Visual Studio 2015 Update 3.
